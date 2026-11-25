@@ -1,0 +1,12 @@
+Write one original one-line dad joke for the make.fun bounty "The One-Liner Groan-Off".
+
+Requirements:
+- A single line, at most 140 characters, a pun or twist a dad would tell out loud at the dinner table.
+- The punchline must land fast and clean, with the setup and the turn inside the single line and no wasted words.
+- It must be fresh, not a joke everyone has heard a hundred times.
+- Wording tight and rhythmic, easy to say out loud and easy to pass on.
+- The groan must be earned: silly enough to make people laugh, sharp enough to be worth repeating.
+
+Chosen joke: "I told the vacuum it was sucking at its job — it said thanks, that's literally the job description."
+
+The program (main.ts) writes exactly this line to /output/entry.txt, deterministically, with no randomness, clock, network, or input.
